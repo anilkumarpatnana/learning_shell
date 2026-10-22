@@ -5,5 +5,5 @@ echo "these are the registed candidtaes : $1 , $2 , $3 , $4 "       ## first arg
 echo " total no od condidiates registered are : $# "                 ##counts no of arguments
 
 
-echo " it shows all registed users as a single word : $@"
+echo " it shows all registed users as a single word : $@"           ## gives all arguments as a single word
 
