@@ -14,3 +14,4 @@ echo "This is the process id of latest command running in the background (sleep 
 echo "This is the exit status code of previous command (0 means success, 1-127 are fail): $?"
 echo "which user is running the script : $USER"
 echo "Working directory of script file : $PWD"
+echo "Current aws cli version : $(aws --version)"
