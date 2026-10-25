@@ -1,3 +1,3 @@
 #!/bin/bash
 
-echo "id -u"
+echo "$(id -u)"
